@@ -1,7 +1,7 @@
 import { Box, Flex, Grid, GridItem, Text  } from '@chakra-ui/react'
 import React from 'react'
 
-const Page = ({profile}) => {
+const Page = ({profile=[]}) => {
   return (
     <div>
                 <Grid    gridTemplateColumns="repeat(2, 1fr)" gap={2} >

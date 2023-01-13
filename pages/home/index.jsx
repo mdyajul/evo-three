@@ -4,7 +4,7 @@ import React from 'react'
   
  
 
-const Page = ({profile}) => {
+const Page = ({profile=[]}) => {
   return (
     <Flex >
     
