@@ -2,7 +2,7 @@
   "name": "my-todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://githu",
+  "homepage": "https://mdyajul.github.io/evo-three",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
