@@ -12,7 +12,7 @@ const Page = ({profile=[]}) => {
              <Flex w="30%" border={"1px solid red"} >
             <Box p={2} alignItems="center" justifyContent={"center"}  >
                 <Center>
-                <Image src="https://avatars.githubusercontent.com/u/103638396?v=4" borderRadius={"50%"} w="150px"/>      
+                <Image src="https://avatars.githubusercontent.com/u/103638396?v=4" borderRadius={"50%"} w="150px" alt="pro"/>      
  
                 </Center>
                 <Center>
